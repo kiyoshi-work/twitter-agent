@@ -36,8 +36,8 @@ You can find and interact with the bot here: [@0x_Doflamingo](https://x.com/0x_D
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/crypto-twitter-bot.git
-cd crypto-twitter-bot
+git clone https://github.com/kiyoshi-work/twitter-agent
+cd twitter-agent
 ```
 
 ### Step 2: Install Dependencies

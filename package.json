@@ -1,8 +1,8 @@
 {
-  "name": "tweet-reader-server",
+  "name": "twitter-agent-server",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "hunglhp1998@gmail.com",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
